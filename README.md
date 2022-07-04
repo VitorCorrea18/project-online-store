@@ -8,6 +8,8 @@ The project is a front end application inspired in <a href="https://www.mercadol
 We used Mercado Livre's own public [API](https://developers.mercadolivre.com.br/pt_br/api-docs-pt-br) 
 to feed our front end project. The main goal here was to put in practice our knowledge of basic React development and API requests.
 
+<img src="./src/onlineStore.png" alt='screenshot' width="300">
+
 ## Installation
 
 Clone this repository
